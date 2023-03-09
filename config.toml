@@ -1,0 +1,4 @@
+baseURL = 'http://evsikov.github.io'
+languageCode = 'en-us'
+title = 'Site'
+theme = 'ananke'
